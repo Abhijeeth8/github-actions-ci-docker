@@ -1,0 +1,1 @@
+This is a project in which we create a flask app and the containerize it and everything will be automated using Github actions. So basically the CI part is done using github actions and the image is pushed to docker hub.
